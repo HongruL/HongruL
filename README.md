@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hongru
-- 👀 I’m a Data Scientist
+- 👀 I’m a data professional
 - 🌱 I love mathematics and philosophy
 
 <!---
